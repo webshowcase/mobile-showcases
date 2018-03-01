@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_c2e253e08f5b54ec56d276ab9f01d2a2141f7cbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\HelloWorld\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\HelloWorld-runtime-unspecified_f9a33c2055da47c07ce1d33e82f9cc72ca3ab509.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_2fac5bf22547764e3200cf0400b73c07c304f152.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_3eeb3c414acff036e0234bb1202c1191864e1cc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_77d86d485673a31ca519120ae07f96a8ae22c7a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\HelloWorld\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_c2e502b8c1175712ce9419f5721752b3203aa61d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_0bc5d87444f5f124a3dbeae3491fb5a03a4a4216.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_e21af1cfb0551995ff91314baadc4d4110a31e4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_f985c5ba42d0c9c1d089322123e2c1eda35237be.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_cbc465541879a8de60b552c9db3365115bbea57d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_6778b4305d9070306ec104569e72220fa87f9314.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_dd17cc0e59cb7302f8852abae83d95a7ea6f6a68.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_d4bad30d5ba0c194bf93c627bdec1d749c09f572.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_a1dcda9fc4601c96e2462458b9677d6a0c9ecb17.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_a56d98bf06ea64ef657149afffeebc4bf74584b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\dachao.chen\Git\NativeScript\first-demo\HelloWorld\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_756acfc8781471ac3a346f101c52d3b9eb1ccad0.jar" />
+    </item>
+
+</items>
