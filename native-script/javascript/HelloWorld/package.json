@@ -3,10 +3,13 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "readme": "NativeScript Application",
   "repository": "<fill-your-repository-here>",
+  "scripts": {
+    "start:android": "tns run android"
+  },
   "nativescript": {
     "id": "org.nativescript.HelloWorld",
     "tns-android": {
-      "version": "2.5.0"
+      "version": "3.4.1"
     }
   },
   "dependencies": {
